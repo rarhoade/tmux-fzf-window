@@ -1,6 +1,8 @@
 ## Features
 * Switches Tmux windows in a session using fzf via popup
 
+![trimmed_demo](https://github.com/user-attachments/assets/6e2a1c9e-6df6-4a70-8e4c-2e52f8f4a0e3)
+
 ## Requirements
 * [fzf](https://github.com/junegunn/fzf/)
 * [tmux](https://github.com/tmux/tmux/wiki)
